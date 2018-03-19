@@ -6,8 +6,6 @@ html {
     border-width: 1px;
     overflow-x: auto; width: 1335;
   }
-  
-  }
   a.reef:hover {
     background: orange;
     color: green;
