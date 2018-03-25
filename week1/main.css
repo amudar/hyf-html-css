@@ -1,0 +1,135 @@
+html {
+    border-right-style:solid;
+    border-left-style: solid;
+    border-color:#595959;
+    border-width: 1px;
+    margin: 1px;
+    height:100%;
+}
+
+body {
+    height:100%;
+    font-family:monospace;
+    margin:1px;
+}
+
+h1 {
+    font-size:50px;
+    padding-top:30px;
+    font-weight:lighter;
+}
+
+h2 {font-size:22px;
+}
+
+h1, h2 {
+    padding-left30px;
+    margin:0px;
+}
+
+h3 {
+    padding-top:10px;
+}
+
+h4 {
+    padding:25px 10px 0px 10px;
+    margin:0px;
+    font-style:italic;
+}
+
+#mleft {
+    width:35%;
+    height:100%;
+    float: left;
+    background:linear-gradient(to left,#595959, #b2b2b2)
+}
+
+#sleft {
+    width:45%;
+    height:100%;
+    margin-top:100px;
+    margin-bottom:-100px;
+    margin-left:55%;
+    background-color:#4c4c4c; color:whitesmoke
+}
+
+#mright {
+    width:65%;
+    height:100%;
+    float:right;
+    background-color:#b2b2b2
+}
+
+#sright {
+    width:80%;
+    height:100%;
+    margin-top:100px;
+    padding-right:30px;
+    padding-left:30px;
+    text-align:justify;
+    background-color:whitesmoke
+}
+
+#sname {
+    float:right;
+    margin-top:30px;
+    margin-right:10px;
+    color:whitesmoke;
+    font-size:30px;
+}
+
+#fname {
+    float:left;
+    margin-top:30px;
+    margin-left:5px;
+    color:black;
+    font-size:30px;
+}
+
+#heed {
+    height:180px;
+}
+
+#hline-bottom {
+    padding-bottom: 40px;
+    border-bottom: 1px solid #4c4c4c;
+}
+
+#logo {width:120px;
+    float:left;
+    margin-bottom:20px;
+}
+
+#hyflist {
+    float:left;
+    margin-left:10px;
+    margin-top:100px;
+}
+
+#picbox {border-style:solid;
+    border-color:#4c4c4c;
+    border-width:1px;
+    height:180px;
+}
+
+#pic {
+    width:120px;
+    display:block;
+    margin-top:30px;
+    margin-bottom:30px;
+    margin-left:auto;
+    margin-right:auto;
+    border-color: grey;
+    border-width: 1px;
+    border-style: solid;
+    border-radius:50%;
+}
+
+.leftlist {
+    font-style:italic ;
+    font-weight:lighter;
+    font-size: 13px;
+    list-style-type: none;
+    line-height: 20px;
+    padding-left:20px;
+}
