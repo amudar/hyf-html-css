@@ -124,11 +124,6 @@ li:nth-child(2) {
     flex-flow: row wrap;                              
 }
 
-
-section :nth-child(1), :nth-child(2) {
-    float: left;
-}
-
 section {
     display: flex;
     flex-direction: column;
