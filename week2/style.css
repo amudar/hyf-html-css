@@ -4,7 +4,8 @@
 }
 
 html {
-    background-image: src="images/wal-drone.jpg";
+    background-image: url("images/wal-drone.jpg");
+    /* background-image: src="images/wal-drone.jpg"; */
     /* background-image: url("https://s26.postimg.org/j01ouy2ih/wal-drone.jpg"); */
     /* it doesn't work when I add: url("./images/wal-drone.jpg") or url("././images/wal-drone.jpg");
     or url("https://github.com/amudar/hyf-html-css/blob/master/week2/images/wal-drone.jpg") */
