@@ -137,6 +137,9 @@ section {
     @media only screen and (max-width: 600px) {
         
         
+         li {
+            font-size:0.6rem;
+        }
         
         #grid-floats li:nth-child(1) {
             width: 98%;
@@ -183,10 +186,7 @@ section {
     /* For tab and medium screens */
     @media only screen and (min-width: 600px) {
         
-        li {
-            font-size:0.6rem;
-        }
-
+       
         #grid-floats li:nth-child(1), li:nth-child(2) {
             width:48%;
             float: left;
