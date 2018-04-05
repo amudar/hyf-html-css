@@ -134,7 +134,7 @@ section {
 }
 
     /* Grids For mobile screens */
-    @media only screen and (max-width: 768px) {
+    @media only screen and (max-width: 600px) {
         
         
         
@@ -181,7 +181,7 @@ section {
 }
 
     /* For tab and medium screens */
-    @media only screen and (min-width: 768px) {
+    @media only screen and (min-width: 600px) {
 
         #grid-floats li:nth-child(1), li:nth-child(2) {
             width:48%;
