@@ -4,7 +4,7 @@
 }
 
 html {
-    background-image: url(web/images/wal-drone.jpg);
+    background-image: url("web/images/wal-drone.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
