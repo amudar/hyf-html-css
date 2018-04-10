@@ -1,0 +1,35 @@
+25  cd My-Documents/
+   
+26  mkdir cli-2
+   
+27  cd cli-2/
+   
+28  touch blank.txt
+   
+36  for i in {1..5}; do echo "Hello" >> greetings.txt; done
+   
+39  for i in {1..5}; do cp greetings.txt $i.txt; done
+   
+40  echo "cat" > pets.txt
+   
+41  echo "dog" >> pets.txt
+   
+42  echo "hamster" >> pets.txt
+   
+43  echo "cat" > commands.txt
+   
+44  echo "ls" >> commands.txt
+   
+45  echo "pwd" >> commands.txt
+   
+46  echo "cat" > lovelycommands.txt
+   
+47  echo "ls" >> lovelycommands.txt
+   
+48  echo "pwd" >> lovelycommands.txt
+   
+49  clear
+   
+50  history
+   
+51  history > history.txt
